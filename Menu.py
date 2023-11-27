@@ -1,5 +1,7 @@
 resp = 1
 
+'''Colocar funcionalidades iguais as de Java'''
+
 suporte_comunitario_info = [
     "Suporte Comunitário",
     "O suporte Comunitário é um local onde o usuário poderá compartilhar experiências, fazer perguntas e oferecer apoio uns aos outros.",
