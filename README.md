@@ -41,4 +41,4 @@ Após cada operação, o usuário tem a opção de realizar uma nova operação 
 - Beatriz Silva - RM 552600
 - Mariana Spinola - RM 553476
 -----
-Este projeto foi desenvolvido como parte do curso [Inserir nome do curso/projeto aqui].
+O projeto CareCircle foi desenvolvido como parte do curso Análise e Desenvolvimento de Sistema.
