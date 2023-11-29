@@ -7,25 +7,42 @@
 ---
 
 ## Funcionalidades Principais:
-- Suporte Comunitário:
-
-O Suporte Comunitário é um espaço dedicado onde os usuários podem compartilhar suas experiências, fazer perguntas e oferecer apoio uns aos outros.
-
-- Diário de Saúde Personalizado:
-
-O Diário de Saúde Personalizado permite que os usuários mantenham um registro pessoal de saúde, incluindo sintomas, emoções, atividades físicas e outros detalhes relevantes para o seu bem-estar.
-
-- Registro Menstrual:
-
-A funcionalidade de Registro Menstrual possibilita que usuários rastreiem seu ciclo menstrual, sintomas associados e variações de humor ao longo do tempo.
-
-- Integração de Dispositivos de Saúde:
-
-A Integração de Dispositivos de Saúde permite aos usuários conectar dispositivos como smartwatches e monitores de pressão arterial para coletar dados de saúde em tempo real.
-
-- Acompanhamento da Transição de Gênero:
-
-A funcionalidade de Acompanhamento da Transição de Gênero possibilita que usuários registrem e acompanhem marcos na transição de gênero, incluindo hormonioterapia, cirurgias e consultas médicas especializadas.
+- Login e Cadastro:<br>
+  • Os usuários podem realizar login ou cadastrar uma nova conta.
+  
+- Menu do Usuário:<br>
+  • Adição de ciclos menstruais.<br>
+  • Listagem de grupos de apoio.<br>
+  • Participação em grupos de apoio.<br>
+  • Listagem de grupos de apoio dos quais o usuário faz parte.<br>
+  • Visualização dos próprios ciclos menstruais.<br>
+  • Encontrar o hospital mais próximo.
+  
+- Menu Administrativo:<br>
+  • Realização de postagens.<br>
+  • Inserção de novos grupos de apoio.<br>
+  • Registro de marcas parceiras.<br>
+  • Listagem de postagens, grupos de apoio, marcas parceiras e
+  ciclos menstruais.<br>
+  • Visualização de todos os usuários, contas e contas
+  administrativas.
+  
+- Acompanhamento dos Ciclos Menstruais:<br>
+  • Adição de ciclos menstruais com informações detalhadas.<br>
+  • Associação de sintomas aos ciclos menstruais.
+  
+- Possibilita o usuario a participar de Grupos de Apoio:<br>
+  • Inscrição em grupos de apoio existentes.<br>
+  • Listagem dos grupos de apoio dos quais o usuário faz parte.<br>
+  • Inserção de novos grupos de apoio.
+  
+- Contas administrativas podem realizar Postagens:<br>
+  • Realização de postagens por contas administrativas.<br>
+  • Listagem de todas as postagens realizadas.
+  
+- Marcas Parceiras:<br>
+  • Registro de novas marcas parceiras.<br>
+  • Listagem de todas as marcas parceiras registradas. 
 
 ## Instruções de Uso:
 O usuário escolhe a funcionalidade desejada digitando o número correspondente.
